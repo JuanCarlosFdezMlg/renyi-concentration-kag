@@ -1,0 +1,9 @@
+# Recomputed pointwise metrics (2 GB): regenerate with analysis/compute_concentrations.py
+/outputs/
+# Retraining outputs
+/runs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

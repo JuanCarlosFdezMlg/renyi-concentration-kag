@@ -1,0 +1,37 @@
+{
+  "function": "xor",
+  "target": "product_i sin(pi*x_i)",
+  "n_input": 3,
+  "width": 32,
+  "seed": 3,
+  "dataset_seed": 3,
+  "training_shuffle_seed": 10003,
+  "epochs": 500,
+  "n_train": 4096,
+  "n_test": 1024,
+  "batch_size": 250,
+  "lr": 0.01,
+  "optimizer": "Adam",
+  "activation": "GeLU approximate=none",
+  "split_encoding": {
+    "0": "train",
+    "1": "test"
+  },
+  "train_sample_ids": [
+    0,
+    4095
+  ],
+  "test_sample_ids": [
+    4096,
+    5119
+  ],
+  "training_dtype": "float32",
+  "predictions_dtype": "float32",
+  "source_commit": "30b1897060ba767027402b38941aa6e49bf225dc",
+  "python": "3.12.3",
+  "torch": "2.10.0a0+b558c986e8.nv25.11",
+  "cuda": "13.0",
+  "gpu": "NVIDIA B200",
+  "tf32_matmul": false,
+  "recorded_epochs": "0..500 (0 = initialization)"
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "name": "fc1.weight",
+    "shape": [
+      8,
+      3
+    ],
+    "start": 0,
+    "stop": 24
+  },
+  {
+    "name": "fc1.bias",
+    "shape": [
+      8
+    ],
+    "start": 24,
+    "stop": 32
+  },
+  {
+    "name": "fc2.weight",
+    "shape": [
+      1,
+      8
+    ],
+    "start": 32,
+    "stop": 40
+  },
+  {
+    "name": "fc2.bias",
+    "shape": [
+      1
+    ],
+    "start": 40,
+    "stop": 41
+  }
+]

@@ -1,0 +1,4 @@
+# Training only (CUDA GPU required). The networks of the paper were trained with
+# Python 3.12.3, PyTorch 2.10.0 (NVIDIA container nv25.11) and CUDA 13.0 on an NVIDIA B200.
+numpy>=1.26
+torch>=2.2
