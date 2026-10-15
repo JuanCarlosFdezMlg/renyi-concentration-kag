@@ -111,6 +111,22 @@ provides the dataset, the model and the seeding. While training, `run_study.py` 
 concentration values to `C.npy` for the orders $\alpha$ used at that stage of the project. Those values
 are not used in the paper. All the reported metrics are computed by `analysis/` from the stored weights.
 
+## Contact
+
+**Asunción Jiménez-Cordero is the corresponding author and primary contact for future enquiries
+about the paper and this repository.** Please direct correspondence to
+[asuncionjc@uma.es](mailto:asuncionjc@uma.es).
+
+- **Juan Carlos Fernández** — [juancarlosfdezmlg@gmail.com](mailto:juancarlosfdezmlg@gmail.com).
+  University of Málaga, Málaga, Spain.
+- **Asunción Jiménez-Cordero** — [asuncionjc@uma.es](mailto:asuncionjc@uma.es).
+  Department of Mathematical Analysis, Statistics and Operations Research and Applied Mathematics,
+  Area of Statistics and Operations Research, University of Málaga, Málaga, Spain.
+  OASYS research group, University of Málaga, Málaga, Spain.
+  Telephone: [+34 951 952 925](tel:+34951952925).
+- **José Francisco Paris** — [jfparis@uma.es](mailto:jfparis@uma.es).
+  TELMA Institute, University of Málaga, Málaga, Spain.
+
 ## Citation
 
 If you use this code or data, please cite the paper (reference to be completed upon publication).
