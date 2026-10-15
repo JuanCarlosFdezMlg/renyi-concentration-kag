@@ -113,17 +113,12 @@ are not used in the paper. All the reported metrics are computed by `analysis/` 
 
 ## Contact
 
-**Asunción Jiménez-Cordero is the corresponding author and primary contact for future enquiries
-about the paper and this repository.** Please direct correspondence to
-[asuncionjc@uma.es](mailto:asuncionjc@uma.es).
-
 - **Juan Carlos Fernández** — [juancarlosfdezmlg@gmail.com](mailto:juancarlosfdezmlg@gmail.com).
   University of Málaga, Málaga, Spain.
 - **Asunción Jiménez-Cordero** — [asuncionjc@uma.es](mailto:asuncionjc@uma.es).
   Department of Mathematical Analysis, Statistics and Operations Research and Applied Mathematics,
   Area of Statistics and Operations Research, University of Málaga, Málaga, Spain.
   OASYS research group, University of Málaga, Málaga, Spain.
-  Telephone: [+34 951 952 925](tel:+34951952925).
 - **José Francisco Paris** — [jfparis@uma.es](mailto:jfparis@uma.es).
   TELMA Institute, University of Málaga, Málaga, Spain.
 
